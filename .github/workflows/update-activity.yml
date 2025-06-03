@@ -1,4 +1,4 @@
-name: Update README with recent activity
+name: Recent Activity
 
 on:
   schedule:
@@ -6,16 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update README
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: Update Recent Activity
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@v0.4.5
+      - uses: Readme-Workflows/recent-activity@v2.6.0
+        with:
+          GH_USERNAME: S-Sajith
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Updated README with recent activity"

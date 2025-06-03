@@ -1,6 +1,6 @@
 ## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sajith&show_icons=true&theme=default&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sajith&show_icons=true&theme=dark&count_private=true&hide=stars)
 
 ## 🔤 Top Languages
 

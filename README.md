@@ -2,7 +2,6 @@
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Sajith&theme=apprentice)
 
-## 📈 GitHub Stats
+## 📈 Profile Summary
 
-![My GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Sajith&theme=apprentice)
-
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Sajith&theme=apprentice)

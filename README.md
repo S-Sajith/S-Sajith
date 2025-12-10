@@ -1,8 +1,8 @@
 ## 🔤 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Sajith&layout=compact&theme=dark)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S-Sajith&theme=apprentice)
 
 ## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sajith&show_icons=true&theme=dark&count_private=true&hide=stars)
+![My GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=S-Sajith&theme=apprentice)
 
